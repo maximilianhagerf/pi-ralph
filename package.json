@@ -1,0 +1,12 @@
+{
+  "name": "pi-ralph",
+  "version": "1.0.0",
+  "description": "Ralph autonomous coding agent extension for pi",
+  "main": "src/index.ts",
+  "files": ["src", "README.md"],
+  "keywords": ["pi", "pi-extension", "coding-agent"],
+  "license": "MIT",
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  }
+}
